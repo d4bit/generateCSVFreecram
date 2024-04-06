@@ -1,0 +1,2 @@
+# generateCSVFreecram
+ Este script realiza un scraping de varias páginas web, recopilando preguntas, opciones, y explicaciones de respuestas. Luego, exporta estos datos a un archivo CSV. Utiliza la biblioteca requests para obtener el contenido de las páginas, BeautifulSoup para analizar el HTML, y csv para escribir los datos en el archivo CSV. Finalmente, muestra un mensaje indicando que los datos han sido exportados exitosamente.
